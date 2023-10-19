@@ -11,5 +11,5 @@ var whitelist = {
   "","ufe.hietstudios.net"
   "","hietstudios.net"
   "","www.hietstudios.net"
-
+  "","ufe.js.org"
 }
